@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_j3ltespr.mk
+    $(LOCAL_DIR)/lineage_j3lte.mk
