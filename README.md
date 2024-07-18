@@ -1,6 +1,6 @@
-# LineageOS Source Device Tree Template
+# LineageOS SM-J327P Device Tree
 
-Start your Android career here. Build device trees and port custom ROMs and recoveries to new devices easily with this template.
+Fork (Actually just a copy currently) of the LineageOS template from Github user imasaru. I'm keeping their README for now because I'm new to this kind of android development and want to reference it.
 
 Study the templates included to understand the file scheme, and then extract a boot or recovery image from your device, and run the mkvendor.sh script to make a preliminary tree. Here is Google's [AOSP tutorial](https://source.android.com/setup/develop/new-device) on how to make a device tree and another good explanation on [StackOverflow](https://stackoverflow.com/a/11353248) on what these files do.
 
